@@ -1,3 +1,3 @@
 # font_type
 
-[data](https://figshare.com/account/items/29650889/)
+[data](https://doi.org/10.6084/m9.figshare.29650889.v1)
